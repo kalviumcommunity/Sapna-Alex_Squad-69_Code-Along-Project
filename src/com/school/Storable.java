@@ -1,5 +1,5 @@
 package com.school;
 
-public interface Storable{
+public interface Storable {
     String toDataString();
 }
